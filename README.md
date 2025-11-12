@@ -18,3 +18,8 @@ py -m ensurepip --upgrade
 ```
 pip install ipykernel
 ```
+
+5. Run this command after writing the name of the library in the requirements.txt
+```
+python -m pip install -r requirements.txt
+```
